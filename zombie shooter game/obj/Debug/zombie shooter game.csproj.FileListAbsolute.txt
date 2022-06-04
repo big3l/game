@@ -1,0 +1,10 @@
+C:\Users\LeraS\OneDrive\Рабочий стол\игра\zombie shooter game\zombie shooter game\bin\Debug\zombie shooter game.exe.config
+C:\Users\LeraS\OneDrive\Рабочий стол\игра\zombie shooter game\zombie shooter game\bin\Debug\zombie shooter game.exe
+C:\Users\LeraS\OneDrive\Рабочий стол\игра\zombie shooter game\zombie shooter game\bin\Debug\zombie shooter game.pdb
+C:\Users\LeraS\OneDrive\Рабочий стол\игра\zombie shooter game\zombie shooter game\obj\Debug\zombie shooter game.csproj.AssemblyReference.cache
+C:\Users\LeraS\OneDrive\Рабочий стол\игра\zombie shooter game\zombie shooter game\obj\Debug\zombie_shooter_game.Form1.resources
+C:\Users\LeraS\OneDrive\Рабочий стол\игра\zombie shooter game\zombie shooter game\obj\Debug\zombie_shooter_game.Properties.Resources.resources
+C:\Users\LeraS\OneDrive\Рабочий стол\игра\zombie shooter game\zombie shooter game\obj\Debug\zombie shooter game.csproj.GenerateResource.cache
+C:\Users\LeraS\OneDrive\Рабочий стол\игра\zombie shooter game\zombie shooter game\obj\Debug\zombie shooter game.csproj.CoreCompileInputs.cache
+C:\Users\LeraS\OneDrive\Рабочий стол\игра\zombie shooter game\zombie shooter game\obj\Debug\zombie shooter game.exe
+C:\Users\LeraS\OneDrive\Рабочий стол\игра\zombie shooter game\zombie shooter game\obj\Debug\zombie shooter game.pdb
